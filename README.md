@@ -1,13 +1,5 @@
 # DESIGN AND FABRICATION OF A WOODEN FIRST AID BOX
 
-**Subject:** Engineering Drawing
-**Project:** Wooden First Aid Box
-**Name:** __________________________
-**Register No.:** __________________
-**Class / Section:** ________________
-**Academic Year:** 2026–2027
-
----
 
 ## 1. INTRODUCTION
 
